@@ -1,0 +1,96 @@
+{
+  "project_info": {
+    "project_number": "587850722487",
+    "project_id": "medicare-bd06c",
+    "storage_bucket": "medicare-bd06c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587850722487:android:b3b7830f7a8746be2d7132",
+        "android_client_info": {
+          "package_name": "com.nihad.medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587850722487-p75bpf8s3ni595ic8sfpm66hn8dtt21v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nihad.medicare",
+            "certificate_hash": "67cde7835cea8ad827d7f1057f37ed6c6fab8134"
+          }
+        },
+        {
+          "client_id": "587850722487-vo972guu4gh114sccff8rdq716pjasd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4nMnslF_xc1SEzOwjw08J4KI8IBk983E"
+        },
+        {
+          "current_key": "AIzaSyB0lym3jbGws-wYaZ1uOYwpeEBVKTYdDKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587850722487-vo972guu4gh114sccff8rdq716pjasd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587850722487-3hvlp92cgsmfkt66437is37c5qk81koa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nihad.Flash-Chat-iOS13"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587850722487:android:98ae592c4bd34dea2d7132",
+        "android_client_info": {
+          "package_name": "com.nihad.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587850722487-vo972guu4gh114sccff8rdq716pjasd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4nMnslF_xc1SEzOwjw08J4KI8IBk983E"
+        },
+        {
+          "current_key": "AIzaSyB0lym3jbGws-wYaZ1uOYwpeEBVKTYdDKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587850722487-vo972guu4gh114sccff8rdq716pjasd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587850722487-3hvlp92cgsmfkt66437is37c5qk81koa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nihad.Flash-Chat-iOS13"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
